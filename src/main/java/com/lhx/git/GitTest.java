@@ -11,7 +11,7 @@ public class GitTest {
         System.out.println("push test!");
         System.out.println("pull test!");
         System.out.println("pull test2!");
-        git@github.com:xin-lin/git-test.git
+        //git@github.com:xin-lin/git-test.git
 
     }
 }
